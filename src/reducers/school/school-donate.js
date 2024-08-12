@@ -1,0 +1,44 @@
+const initialState = {
+  loading: false,
+  school: {}
+};
+
+const schoolDonate = (state = initialState, action) => {
+  switch (action.type) {
+    case 'DONATE_WITH_PAYPAL_FOR_COMPANY_FAILED':
+    case 'DONATE_WITH_PAYPAL_FOR_COMPANY_REQUEST':
+    case 'DONATE_WITH_PAYPAL_FOR_COMPANY_SUCCESS':
+    case 'PAY_WITH_CARD_FOR_INDUSTRY_DONATION_REQUEST':
+    case 'PAY_WITH_CARD_FOR_INDUSTRY_DONATION_FAILED':
+    case 'PAY_WITH_CARD_FOR_INDUSTRY_DONATION_SUCCESS':
+    case 'PAY_UTILITY_BILL_PAYMENT_SUCCESS':
+    case 'PAY_UTILITY_BILL_PAYMENT_FAILED':
+    case 'PAY_UTILITY_BILL_PAYMENT_REQUEST':
+    case 'GET_DONATION_TYPES_REQUEST':
+    case 'GET_DONATION_TYPES_FAILED':
+    case 'GET_DONATION_TYPES_SUCCESS':
+    case 'INITIALIZE_TOKEN_GENERATION_FOR_INDUSTRY':
+    case 'SHARE_SCHOOL_FOR_DONATE_REQUEST':
+    case 'SHARE_SCHOOL_FOR_DONATE_FAILED':
+    case 'SHARE_SCHOOL_FOR_DONATE_SUCCESS':
+    case 'LIKE_COMPANY_SCHOOL_FOR_DONATE_REQUEST':
+    case 'LIKE_COMPANY_SCHOOL_FOR_DONATE_SUCCESS':
+    case 'LIKE_COMPANY_SCHOOL_FOR_DONATE_FAILED':
+    case 'GET_FEATURED_SCHOOLS_FOR_DONATE_SUCCESS':
+    case 'GET_FEATURED_SCHOOLS_FOR_DONATE_FAILED':
+    case 'GET_FEATURED_SCHOOLS_FOR_DONATE_RQUEST':
+    case 'GET_SCHOOL_BY_ID_FOR_DONATE_FAILED':
+    case 'GET_SCHOOL_BY_ID_FOR_DONATE_REQUEST':
+    case 'GET_SCHOOL_BY_ID_FOR_DONATE_SUCCESS': {
+      return {
+        ...state,
+        ...action.payload
+      }
+    }
+    default: {
+      return state;
+    }
+  }
+};
+
+export default schoolDonate;

@@ -1,0 +1,2513 @@
+@media only screen and (max-width: 1366px) {
+    .banner-bg .banner-content {
+        right: 7px;
+    }
+
+    .google-btn {
+        /* padding-left: 60px !important;
+        background-position: center left .5rem; */
+    }
+
+    .sm-img.small-image {
+        right: 20px;
+    }
+}
+.h100-vh{
+    height: 100vh;
+}
+
+@media (max-width: 1270px) {
+    .inputexpended {
+        width: 80px !important;
+        font-size: 14px !important;
+        position: relative;
+        bottom: 4px;
+    }
+
+    span.search-icon-expand.search--icon+input {
+        position: relative;
+        bottom: 4px;
+    }
+
+    .navbar-nav .nav-item button {
+        padding: 0;
+    }
+
+    .btn.custom-height {
+        padding: 0px 5px !important;
+        font-size: 12px;
+    }
+
+    .icause-phone-wrap img {
+        left: 180px;
+        width: 90%;
+    }
+
+    .gurantee-sec-2 .img-card:before {
+        right: -20px;
+    }
+}
+
+@media only screen and (max-width: 1199px) {
+    .banner-bg .banner-content {
+        right: 0;
+    }
+
+    .google-btn {
+        /* padding-left: 80px !important;
+        background-position: center left 1.5rem; */
+    }
+}
+
+@media only screen and (max-width: 1180px) {
+    .nav-pipe {
+        padding-left: 3px;
+        padding-right: 3px;
+    }
+
+    li.nav-item.pro-dd-li:hover a {
+        padding: 10px 5px;
+    }
+
+    a.ant-dropdown-trigger.ant-dropdown-link.profile-seting {
+        font-size: 13px !important;
+        padding: 10px 5px;
+    }
+
+    li.nav-item.blog-nav button {
+        padding: 0 18px !important;
+    }
+
+    .navbar-nav .nav-item:hover a {
+        padding: 10px 12px;
+    }
+
+    .header-banner {
+        margin: 64px 0 0;
+    }
+
+    .navbar-nav .nav-item a,
+    .navbar-light .navbar-nav .nav-link {
+        font-size: 12px !important;
+    }
+
+    .bannerForHomeCampaigns .banner-text-col {
+        padding: 0 30px;
+    }
+
+    .campaignTrendingCards .owl-nav {
+        width: 100%;
+    }
+
+    .school-sec-5 .owl-nav button,
+    .school-sec-7 .owl-nav button {
+        background: #3cb64f !important;
+    }
+
+    .career-banner {
+        min-height: 400px;
+        height: 100%;
+    }
+
+    .event-step-1-col .ant-select.form-control.ant-select-single.ant-select-show-arrow {
+        width: 100% !important;
+    }
+
+    #jobModal .modal-dialog {
+        padding: 0 20px;
+    }
+
+    .gen-text-box .heading,
+    .drop-line .gen-text-box .heading {
+        font-size: 30px;
+    }
+}
+
+@media (max-width: 1100px) {
+    .navbar-nav .nav-item:hover a {
+        padding: 10px 10px;
+    }
+
+    .navbar-nav .nav-item a {
+        padding: 0 10px;
+    }
+
+    .inputexpended {
+        width: 60px !important;
+        font-size: 14px !important;
+    }
+
+    .banner-content.contact-banner-text.box-1 {
+        padding: 18px;
+    }
+
+    .banner-content.contact-banner-text.box-1 h1 {
+        font-size: 26px;
+    }
+
+    .banner-content.contact-banner-text.box-1 h4,
+    .contact-banner .contact-banner-text.box-1 .email-1 {
+        font-size: 18px;
+    }
+
+    .contact-banner .contact-banner-text.box-1 .email-2 {
+        font-size: 16px;
+    }
+
+    .icause_app .form-control {
+        margin-left: -45px;
+    }
+
+    .icause_app .google-btn {
+        /* padding-left: 60px !important;
+        background-position: center left .5rem; */
+    }
+}
+
+@media only screen and (max-width: 1024px) {
+    .check-icon i {
+        left: -130px;
+    }
+
+    .navbar-nav .nav-item:hover a {
+        padding: 13px 5px;
+    }
+
+    .navbar-nav .nav-item a {
+        padding: 0 5px;
+    }
+
+    #navbarSupportedContent .form-inline .btn,
+    .custom-btn {
+        font-size: 12px;
+    }
+}
+
+@media only screen and (max-width: 991px) {
+    .category-imgs>img {
+        max-width: 460px;
+        margin: 0 auto;
+    }
+
+    .category-imgs .small-image {
+        max-width: 299px;
+    }
+
+    .footer .footer-top ul li a {
+        font-size: 14px;
+    }
+
+    .navbar-nav .nav-item:hover .nav-link,
+    .navbar-nav .nav-item:hover a {
+        background-color: transparent;
+    }
+
+    section.icause_app.get-app-section .row {
+        justify-content: center;
+    }
+
+    .inputexpended {
+        width: 150px !important;
+        font-size: 16px !important;
+        position: unset;
+    }
+
+    span.search-icon-expand.search--icon+input {
+        position: unset;
+    }
+
+    .raise-money-text {
+        margin: 0 20px;
+        padding: 0 20px;
+    }
+
+    .gurantee-sec-2 .dual-img-card-wrap.img-card img {
+        margin: 0 auto;
+    }
+
+    .gurantee-sec-2 .img-card .sm-img {
+        right: 132px;
+        bottom: -45px;
+    }
+
+    .footer-col-1 ul li:nth-last-child(2) h5 {
+        margin-top: 75px !important;
+    }
+
+    .icause-phone-wrap img {
+        position: relative;
+        left: 0;
+        width: 100%;
+    }
+
+    nav.navbar.navbar-expand-lg.navbar-light.bg-white {
+        border: 0;
+        padding: 0;
+    }
+
+    .dashboard:after {
+        content: unset !important;
+    }
+
+    #header .navbar-nav li ul ul li {
+        margin: 0 !Important;
+        width: unset !important;
+        height: unset !important;
+        overflow: unset !important;
+        border: unset !important;
+        border-radius: unset !important;
+        padding: 0 !important;
+        display: block;
+    }
+
+    #header .loggedOut .navbar-nav li:first-child {
+        margin-top: 70px;
+    }
+
+    #header .loggedIn .navbar-nav li:first-child {
+        border-radius: 100%;
+        width: 150px;
+        height: 150px;
+        overflow: hidden;
+        margin: 70px auto 20px 20px;
+        padding: 0;
+        object-fit: cover;
+        border: 3px solid #fff;
+    }
+
+    .banner-bg .banner-content {
+        position: unset;
+        width: 40%;
+        transform: unset;
+        margin-left: auto;
+    }
+
+    .modal-video-close-btn {
+        right: -140px !important;
+        top: -140px !important;
+    }
+
+    .mbl-drop-down li {
+        background: transparent;
+        border-bottom: 1px solid grey;
+    }
+
+    .mbl-drop-down .ant-menu-vertical {
+        background: transparent;
+        border: none;
+    }
+
+    #navbarSupportedContent2 .nav-item:hover {
+        background: transparent;
+    }
+
+    .mbl-drop-down {
+        background: transparent;
+        padding-left: 20px;
+    }
+
+    .navbar-light .navbar-toggler {
+        border: none;
+        font-size: 16px;
+    }
+
+    span.floating-text {
+        position: absolute;
+        left: 50px;
+        top: 22px;
+        color: #000;
+    }
+
+    #header .navbar-collapse {
+        position: fixed !important;
+        height: 100%;
+        top: 0 !important;
+    }
+
+    #navbarSupportedContent2 {
+        overflow: scroll;
+    }
+
+    #navbarSupportedContent2 {
+        display: block !important;
+    }
+
+    .mbl-menu-close {
+        position: absolute;
+        top: 0;
+        right: 0;
+        font-size: 40px;
+        width: 50px;
+        text-align: center;
+        z-index: 10000000;
+        color: #000;
+    }
+
+    .gen-banner {
+        padding: 100px 0;
+        min-height: auto;
+    }
+
+    #header .navbar-collapse {
+        padding-top: 8px;
+        position: absolute;
+        width: 100%;
+        top: 100%;
+        z-index: 9999999;
+        background: #fff;
+        right: 0;
+        transition: 0.3s;
+    }
+
+    #header .navbar-nav li {
+        padding: 10px 0;
+        /* border-bottom: 1px solid #c1e0f5; */
+        margin: 0 20px;
+        display: unset;
+    }
+
+    #header .navbar-nav li:empty {
+        display: none;
+    }
+
+    #header .navbar-nav li a,
+    #header .navbar-nav li button {
+        font-size: 15px !important;
+        color: #000 !important;
+        padding: 0 5px;
+        height: unset;
+    }
+
+    #header .navbar-nav li button {
+        padding: 0;
+    }
+
+    .bannerForHomeCampaigns {
+        /* min-height: 260px; */
+        padding: 60px 0;
+    }
+
+    .bannerForHomeCampaigns h1 {
+        font-size: 38px;
+    }
+
+    .bannerForHomeCampaigns .banner-text-col button {
+        font-size: 13px;
+        margin: 10px 5px 5px 0 !important;
+    }
+
+    .trending-causes .card {
+        margin: 30px auto;
+        max-width: 360px;
+    }
+
+    .trending-causes .card .text-card {
+        font-size: 13px;
+    }
+
+    .trending-causes .card h1 {
+        font-size: 18px;
+    }
+
+    .trending-causes .card p {
+        font-size: 13px;
+    }
+
+    .trending-causes .left-text-s {
+        font-size: 15px;
+    }
+
+    .trending-causes .left-right-s {
+        font-size: 14px;
+    }
+
+    .main-heading {
+        font-size: 32px;
+    }
+
+    .homepage-wrap .how-to-donate .main-heading {
+        padding-top: 20px !important;
+    }
+
+    .donate-your-bills .col-lg-3.col-md-4 {
+        flex: 0 0 25%;
+        max-width: 25%;
+    }
+
+    .donate-your-bills .bills_box .icon-wrap {
+        height: 60px;
+        margin-bottom: 10px;
+    }
+
+    .donate-your-bills .bills_box h3 {
+        font-size: 20px;
+    }
+
+    footer .main-heading {
+        font-size: 26px;
+    }
+
+    .gurantee-banner {
+        min-height: auto;
+        padding: 100px 0;
+    }
+
+    .gurantee-banner h1,
+    .gen-banner h1 {
+        font-size: 36px;
+    }
+
+    .organization-donate-banner,
+    .community-donation-banner,
+    .charity-donation-banner {
+        height: 370px;
+        min-height: auto;
+    }
+
+    .school-listing-banner {
+        padding: 80px 0;
+        min-height: auto;
+    }
+
+    .school-listing-banner .banner-text-box h1 {
+        font-size: 35px;
+        margin-bottom: 5px !important;
+    }
+
+    .campaignTrendingCards .owl-item {
+        padding: 0 10px;
+    }
+
+    .school-banner,
+    .organization-banner,
+    .charity-banner,
+    .community-banner {
+        padding: 80px 0;
+        min-height: auto;
+    }
+
+    .gen-banner h1 {
+        font-size: 34px;
+    }
+
+    .gen-banner .banner-text-box {
+        padding: 25px 18px;
+    }
+
+    .gen-banner-2 {
+        min-height: 400px;
+        height: 100%;
+    }
+
+    .become-partner-2-wrap ul li:not(:first-of-type) .icon:before {
+        display: none;
+    }
+
+    .news-banner-slider .item {
+        min-height: auto;
+        height: 100%;
+        padding: 90px 0;
+    }
+
+    .faq-sec-3 .accodian {
+        padding-bottom: 0 !important;
+    }
+
+    .about-sec-6 .text-dark {
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .about-sec-6 .text-dark li {
+        width: 33.33%;
+        padding: 0;
+        text-align: center;
+    }
+
+    .campaignSec1 .campaignSec1-left-img {
+        max-width: 400px;
+    }
+
+    .campaignSec1 .campaignSec1-left-img img.w-100 {
+        width: 100% !important;
+    }
+
+    .campaignSec1-left .case {
+        margin-bottom: 5px;
+        font-size: 14px;
+    }
+
+    .campaignSec1-left .title {
+        font-size: 24px;
+    }
+
+    .campaignSec1-left .progress-outer-wrap .progress-info h4 {
+        font-size: 16px;
+    }
+
+    .comments-wrap .older-comments {
+        height: auto !important;
+    }
+
+    .campaignSec1-left .comments-wrap .title {
+        font-size: 24px;
+        margin-bottom: 25px;
+    }
+
+    .comments-wrap .older-comments li {
+        padding: 15px 0;
+        margin-bottom: 15px !important;
+    }
+
+    .campaignSec1 .campaignSec1-text {
+        margin-top: 30px;
+    }
+
+    .category-5-sec-2 {
+        padding-bottom: 40px;
+    }
+
+    .choise-sec-3 .custom-text-width p {
+        max-width: 100%;
+    }
+
+    .choise-sec-3 .trending-causes {
+        padding: 0;
+    }
+
+    .news-banner-slider .banner-text .title {
+        font-size: 34px;
+    }
+
+    .event-manager-sec-2 .trending-causes {
+        padding: 0;
+    }
+
+    .event-manager-sec-2 {
+        padding: 60px 0 40px 0 !important;
+    }
+
+    .why-icause-sec-2 {
+        padding: 00px 0;
+    }
+
+    .login-page .btn-wrper button {
+        width: calc(100% - 40px);
+    }
+
+    .login-page .btn-wrper button {
+        padding-left: 60px;
+        padding-right: 20px;
+    }
+
+    .contact-banner {
+        height: auto;
+        padding: 60px 0;
+        position: relative;
+        background: url(https://icause.s3.us-east-2.amazonaws.com/app_images/contact-banner.jpg);
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .contact-banner .container-fluid {
+        padding: 0;
+        display: none;
+    }
+
+    .contact-banner .row {
+        margin: 0;
+    }
+
+    .contact-banner .contact-banner-col {
+        flex: 0 0 100%;
+        max-width: 100%;
+        padding: 0;
+    }
+
+    .contact-banner .contact-banner-text {
+        position: relative;
+        top: auto;
+        left: auto;
+        transform: none;
+        margin: 0 20px;
+    }
+
+    .blog-banner .banner-content h1 {
+        font-size: 20px;
+    }
+
+    .blog-banner .banner-content {
+        padding: 15px;
+    }
+
+    .category-5-banner .news-banner-slider .item {
+        padding: 140px 0;
+    }
+
+    .gurantee-sec-3 .img-card .sm-img {
+        max-width: 200px;
+    }
+
+    .gurantee-sec-3 .dual-img {
+        max-width: 300px !important;
+        margin: 0 auto;
+    }
+
+    .gurantee-sec-3 .text-box {
+        max-width: 100%;
+    }
+
+    .create-event-2-wrap,
+    .create-event-3-wrap {
+        padding: 90px 0 0 0;
+    }
+
+    .blog-det-2 .box-card .title {
+        font-size: 28px;
+    }
+
+    .gurantee-sec-3 .dual-img-card-wrap.img-card .sm-img img {
+        max-width: 180px;
+    }
+
+    .about-pg-wrap .about-banner-slider .item {
+        height: auto;
+        padding: 100px 0;
+    }
+}
+
+@media only screen and (max-width: 920px) {
+    .google-btn {
+        /* padding-left: 65px !important;
+        background-position: center left .7rem; */
+    }
+
+    .raise-money-slider {
+        max-width: 100%;
+    }
+
+    .raise-money-slider .owl-dots {
+        right: auto;
+        left: 50%;
+        transform: translateX(-50%);
+        bottom: 0;
+    }
+
+    .raise-money .raise-money-text {
+        max-width: 100%;
+        margin-top: 40px;
+        padding-top: 20px;
+    }
+
+    .raise-money-text .heading {
+        font-size: 30px;
+        margin-bottom: 15px;
+    }
+
+    .raise-money-text p {
+        margin-bottom: 5px;
+    }
+
+    .footer .footer-top ul li button {
+        text-align: left;
+    }
+
+    .icon-box-2 .icon-list li .img img,
+    .icon-box-3 .icon-list li .img img {
+        max-width: 65px;
+    }
+
+    .icon-box-2 .icon-list li p {
+        font-size: 24px;
+    }
+
+    .icon-box-3 .icon-list li p {
+        font-size: 26px;
+    }
+
+    .detail-list-donate-sec .card .box {
+        width: 60px;
+        height: 60px;
+    }
+
+    .detail-list-donate-sec .card .box i {
+        font-size: 22px !important;
+    }
+
+    .detail-list-donate-sec .card h3 {
+        font-size: 18px;
+    }
+
+    .people-donated-box .head h6,
+    .people-commented-box .head h6 {
+        font-size: 24px;
+    }
+}
+
+@media only screen and (max-width: 860px) {
+    .check-icon i {
+        position: absolute;
+        left: -110px;
+    }
+
+    .icause_app .google-btn {
+        /* padding-left: 50px !important;
+        background-position: center left 0rem; */
+    }
+
+    .google-btn {
+        /* padding-left: 55px !important;
+        background-position: center left .2rem; */
+    }
+
+    .icause_app .form-control {
+        margin-left: -9px;
+    }
+
+    .home-sec-2 .progres.w-50 {
+        width: 100% !important;
+    }
+
+    .trending-causes .trending-column {
+        flex: 0 0 50%;
+        max-width: 50%;
+    }
+
+    .contact-sec-2 h4 {
+        font-size: 20px;
+        font-weight: 700;
+    }
+
+    .about-pg-wrap .about-banner-slider .banner-text h1 {
+        font-size: 36px;
+    }
+
+    .about-pg-wrap .about-banner-slider .banner-text p {
+        font-size: 18px;
+    }
+}
+
+@media only screen and (max-width: 810px) {
+    .gurantee-sec-2 .img-card .sm-img {
+        right: 92px;
+    }
+
+    .app-btn .big-txt {
+        font-size: 14px;
+    }
+
+    .app-btn p {
+        font-size: 10px;
+        line-height: 16px;
+    }
+}
+
+@media (max-width: 768px) {
+    .check-icon i {
+        left: -100px;
+        top: 6px;
+    }
+}
+
+@media only screen and (max-width: 767px) {
+    .icause_app .google-btn {
+        /* padding-left: 52px !important;
+        background-position: center left -5px; */
+    }
+
+    section.icause_app {
+        padding-left: 0;
+        padding-right: 0;
+    }
+
+    .google-btn {
+        /* padding-left: 130px !important;
+        background-position: center left 4rem; */
+    }
+
+    .gurantee-sec-2 .img-card .sm-img {
+        right: 40px;
+    }
+
+    .become-section-col {
+        width: 50% !important;
+    }
+
+    .donate-your-bills .custom-border:nth-child(3) .bills_box .right_border,
+    .donate-your-bills .custom-border:nth-child(6) .bills_box .right_border,
+    .donate-your-bills .custom-border:nth-child(9) .bills_box .right_border {
+        border-right: none;
+    }
+
+    .footer-col-1 ul li:nth-last-child(2) h5 {
+        margin-top: 65px !important;
+    }
+
+    .become-section .card-body h5 {
+        font-size: 14px;
+    }
+
+    .icause_app .form-control {
+        margin-left: -9px;
+    }
+
+    .footer .input-group-btn button,
+    .footer input {
+        height: 45px;
+    }
+
+    section.how-to-donate {
+        padding: 5px 0px 20px;
+        height:850px;
+    }
+
+    .how-to-donate .card {
+        margin-bottom: 10px;
+    }
+
+    .how-to-donate .card .box {
+        width: 100px;
+        height: 100px;
+    }
+
+    .how-to-donate .card h3 {
+        margin-bottom: 5px;
+        font-size: 22px;
+    }
+
+    .how-to-donate .card p {
+        margin: auto;
+        font-size: 15px;
+    }
+
+    .how-to-donate .card .btn-cutom,
+    .trending-causes .btn-cutom {
+        width: 140px;
+        height: 46px;
+    }
+
+    .icause_app h2 {
+        font-size: 26px;
+        line-height: 1.3;
+    }
+
+    .icause_app p {
+        font-size: 13px;
+        line-height: 1.6;
+    }
+
+    .icause_app .available-on button {
+        background: transparent;
+    }
+
+    .icause-phone-wrap {
+        text-align: center;
+    }
+
+    .icause-phone-wrap img {
+        max-width: 400px;
+        margin: 0 auto;
+        width: 100%;
+        left: 0;
+    }
+
+    .homepage-wrap .trending-causes {
+        padding-bottom: 0;
+        padding-top: 12px;
+    }
+
+    .trending-causes .main-heading {
+        margin-bottom: 10px;
+    }
+
+    .donate-your-bills .col-lg-3.col-md-4 {
+        flex: 0 0 33.333%;
+        max-width: 33.333%;
+    }
+
+    .become-section .member-card {
+        /* max-width: 289px; */
+        margin: 0 auto;
+        margin-top: 0 !important;
+        margin-bottom: 30px !important;
+    }
+
+    .btn {
+        font-size: 14px;
+    }
+
+    .home-donate-section .img-wrap {
+        text-align: center;
+    }
+
+    .donate-section.home-donate-section .img-wrap img {
+        max-width: 400px;
+    }
+
+    .donate-section.home-donate-section p {
+        margin-top: 0px !important;
+        padding-top: 0 !important;
+    }
+
+    .donate-section.home-donate-section .ant-btn.btn {
+        margin-top: 10px !important;
+    }
+
+    .donate-section.home-donate-section {
+        padding-bottom: 20px !important;
+    }
+
+    .footer h5 {
+        font-size: 20px;
+        margin-bottom: 8px;
+        margin-top: 0 !important;
+    }
+
+    .footer-top ul li button {
+        font-size: 14px;
+    }
+
+    footer .main-heading {
+        margin-bottom: 10px !important;
+    }
+
+    .footer-bottom .social-icon {
+        margin-top: 5px !important;
+    }
+
+    .footer-top .app-stores-btns a {
+        text-align: center;
+    }
+
+    .donate-your-bills .total {
+        margin-top: 10px !important;
+    }
+
+    .after-donate-bill {
+        margin-bottom: 0px;
+    }
+
+    section.Best-fundraising-website {
+        padding: 10px 0;
+    }
+
+    .Best-fundraising-website .main-heading {
+        padding-bottom: 10px !important;
+    }
+
+    .raise-money-text .heading {
+        font-size: 26px;
+    }
+
+    .raise-money-text p {
+        font-size: 15px;
+    }
+
+    .gurantee-sec-2 .text-box {
+        margin-top: 80px;
+    }
+
+    .gurantee-sec-3 .text-box {
+        max-width: 100%;
+    }
+
+    .gurantee-sec-3 .dual-img {
+        max-width: 300px !important;
+    }
+
+    .gurantee-sec-3 .dual-img .sm-img {
+        max-width: 190px;
+    }
+
+    .gurantee-sec-4 .img-box {
+        max-width: 350px;
+        margin: 0 auto;
+    }
+
+    .category-donate-sec-2 .img-wrap {
+        text-align: center;
+        margin-bottom: 25px;
+    }
+
+    .category-donate-sec-2 .img-wrap img {
+        max-width: 300px;
+    }
+
+    .category-donate-2-text .btn-wrap,
+    .category-donate-2-text .reaction-counter {
+        justify-content: center;
+    }
+
+    .category-donate-2-text .reaction-counter .stat-box {
+        padding: 0;
+        width: 155px;
+        text-align: center;
+    }
+
+    .category-donate-2-text .reaction-counter {
+        padding-left: 18px;
+    }
+
+    .category-donate-2-text .custom-progess {
+        margin-top: 60px;
+    }
+
+    .category-donate-sec-3 .container>.row>.col-6 {
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+
+    .donate-money-method-wrap {
+        margin-top: 30px;
+    }
+
+    .school-listing-banner {
+        padding: 60px 0;
+    }
+
+    .school-sec-2,
+    .school-sec-2 .col-md-6.text-right {
+        text-align: center !important;
+    }
+
+    .school-sec-2 button {
+        margin-top: 20px !important;
+    }
+
+    /* .gurantee-sec-2 .img-card, .gurantee-sec-3 .img-card {
+        max-width: 400px;
+        margin: 0 auto;
+    } */
+    .school-sec-3 .text-box {
+        margin-top: 90px;
+    }
+
+    .gurantee-sec-2 .text-box h5,
+    .gurantee-sec-3 .text-box h5,
+    .gurantee-sec-4 .text-box h5,
+    .custom-text-box h5 {
+        font-size: 16px;
+    }
+
+    .gurantee-sec-2 .text-box h3,
+    .gurantee-sec-3 .text-box h3,
+    .gurantee-sec-4 .text-box h3,
+    .custom-text-box h3 {
+        font-size: 26px;
+    }
+
+    .gurantee-sec-2 {
+        padding: 50px 0;
+    }
+
+    .school-sec-4 .stats-wrap,
+    .school-detail-sec-2 .stats-wrap {
+        padding: 15px 0;
+        margin-bottom: 20px;
+    }
+
+    .become-partner-sec-3 {
+        padding-top: 0 !important;
+    }
+
+    .become-partner-sec-3 .img-wrap,
+    .become-partner-sec-6 .img-wrap {
+        max-width: 300px;
+        margin-top: 20px;
+    }
+
+    .become-partner-sec-5:before {
+        width: 100%;
+    }
+
+    .become-partner-sec-5 .gen-text-box {
+        margin: 0 auto;
+    }
+
+    .become-partner-sec-6 {
+        padding-top: 50px;
+    }
+
+    .become-partner-sec-7 {
+        padding-top: 20px;
+    }
+
+    .become-partner-sec-7 .heading {
+        font-size: 30px;
+    }
+
+    .become-investor-banner {
+        min-height: 250px !important;
+    }
+
+    .news-banner-slider .item {
+        min-height: auto;
+        padding: 80px 0;
+    }
+
+    .news-banner-slider .owl-nav {
+        bottom: 15px;
+    }
+
+    .news-banner-slider .owl-dots {
+        bottom: 28px;
+    }
+
+    .security-sec-2 .security-2-card {
+        margin: 15px 0;
+    }
+
+    .security-sec-3 .custom-text-box,
+    .security-sec-4 .custom-text-box {
+        max-width: 100%;
+    }
+
+    .security-sec-3 .trending-causes.d-flex.justify-content-end,
+    .security-sec-4 .trending-causes.d-flex.justify-content-end,
+    .security-sec-4 .trending-causes {
+        justify-content: center !important;
+        text-align: center;
+        padding: 0 15px;
+    }
+
+    .security-sec-3 .security-sec-3-img,
+    .security-sec-4 .security-sec-4-img {
+        max-width: 300px;
+        margin: 0 auto;
+    }
+
+    .gurantee-sec-5 {
+        margin-top: 40px;
+    }
+
+    .gurantee-sec-5 .top-text h5,
+    .custom-top-text h5 {
+        font-size: 16px;
+        margin-bottom: 5px;
+    }
+
+    .gurantee-sec-5 .top-text h3,
+    .custom-top-text h3 {
+        font-size: 28px;
+    }
+
+    .gurantee-sec-6 {
+        padding: 45px 0;
+    }
+
+    .gurantee-sec-6 h1 {
+        font-size: 24px;
+    }
+
+    .about-sec-2 {
+        margin: 0 !important;
+        padding: 50px 0;
+    }
+
+    .about-sec-2 .main-heading {
+        font-size: 30px;
+        margin-top: 0 !important;
+    }
+
+    .about-sec-2 p {
+        max-width: 100%;
+    }
+
+    .about-sec-2 .img-wrap {
+        margin-top: 40px;
+        text-align: center;
+    }
+
+    .about-sec-2 .img-wrap img {
+        max-width: 300px;
+    }
+
+    .about-sec-3 .img-wrap {
+        text-align: center;
+    }
+
+    .about-sec-3 .img-wrap img {
+        max-width: 300px;
+    }
+
+    .about-sec-3 ul {
+        display: flex;
+        flex-wrap: wrap;
+        width: 100%;
+    }
+
+    .about-sec-3 ul li {
+        padding: 0;
+        text-align: center;
+        width: 33.33%;
+    }
+
+    .about-sec-5 {
+        padding: 50px 0;
+        margin: 0 !important;
+    }
+
+    .about-sec-5 .main-heading {
+        margin-top: 0 !important;
+    }
+
+    .about-sec-5 p {
+        max-width: 100%;
+    }
+
+    .about-sec-5 .img-wrap {
+        text-align: center;
+        margin-top: 30px;
+    }
+
+    .about-sec-5 .img-wrap img {
+        max-width: 300px;
+    }
+
+    .about-sec-6 {
+        margin: 0 !important;
+        padding: 50px 0;
+        background: #fafafa;
+    }
+
+    .about-sec-6 .main-heading {
+        margin-top: 0 !important;
+    }
+
+    .about-sec-6 .img-wrap {
+        margin-top: 40px;
+    }
+
+    .detail-list-donate-sec .card h3 {
+        font-size: 18px;
+    }
+
+    .campaign-det-sec-1 .smbold {
+        margin-top: 8px;
+    }
+
+    .utility-bill-wrap .card h3 {
+        font-size: 14px;
+        margin-bottom: 0;
+    }
+
+    .blog-banner .banner-content {
+        min-height: auto;
+        padding: 20px;
+    }
+
+    .blog-det-banner,
+    .category-5-banner,
+    .choise-banner {
+        height: auto;
+        min-height: auto;
+        padding: 80px 0;
+    }
+
+    .blog-det-banner h1,
+    .category-5-banner h1,
+    .choise-banner h1 {
+        font-size: 32px !important;
+    }
+
+    .category-5-banner h1 {
+        margin-bottom: 0;
+    }
+
+    .detail-4-sec-4 .custom-text-width p {
+        max-width: 100%;
+    }
+
+    .event-manager-sec-2 {
+        padding: 30px 0 !important;
+    }
+
+    .event-manager-sec-2 .main-heading {
+        margin-bottom: 10px !important;
+    }
+
+    .event-manager-sec-2 .custom-text-width p {
+        max-width: 100%;
+    }
+
+    .event-calender-wrap .event-calender {
+        height: 450px;
+    }
+
+    .event-manager-sec-3 .search-box.topnav {
+        margin-bottom: 30px;
+    }
+
+    .create-event-4-desc .event-info {
+        width: 50%;
+    }
+
+    .create-event-4-desc .event-dates {
+        width: 50%;
+    }
+
+    .why-icause-sec-2 .img-box {
+        margin-top: 0px;
+    }
+
+    .why-icause-sec-2 .img-box img {
+        width: 100%;
+    }
+
+    .why-icause-sec-5 .card.img-card {
+        margin-top: 30px;
+        max-width: 360px;
+    }
+
+    .why-icause-sec-5 .card.img-card .sm-img {
+        max-width: 230px;
+    }
+
+    .event-detial-banner {
+        padding: 50px 0 100px 0;
+        min-height: 300px;
+    }
+
+    .event-detail-sec-2 .event-creator-card {
+        margin-top: 30px;
+    }
+
+    .login-page .text-mob {
+        left: 50%;
+        transform: translateX(-50%) rotate(0);
+        top: -90px;
+    }
+
+    .login-page .btn-wrper button {
+        width: 100%;
+        margin-left: 0;
+    }
+
+    .login-page .btn-wrper {
+        max-width: 280px;
+        margin: 0 auto;
+    }
+
+    .login-page .btn-wrper i {
+        left: 5px;
+    }
+
+    .login-page .btn-wrper .btn-icon {
+        left: 4px;
+    }
+
+    .contact-sec-3-text h3 {
+        font-size: 30px;
+    }
+
+    .contact-sec-4 .text-box h3 {
+        font-size: 28px;
+    }
+
+    .contact-sec-4 .text-box li p {
+        font-size: 22px;
+    }
+
+    .contact-sec-5 .left-title h3 {
+        font-size: 28px;
+    }
+
+    .contact-sec-5 .left-title h5,
+    .contact-sec-5 .right-title h6 {
+        font-size: 13px;
+    }
+
+    .contact-sec-5 .right-title h5 {
+        font-size: 18px;
+    }
+
+    .contact-sec-6 .top-text h3 {
+        font-size: 28px;
+    }
+
+    .contact-sec-6 .faq-wrap .card {
+        width: 100%;
+    }
+
+    .school-detail-sec-2 .school-stats .school-logo {
+        width: 100px;
+    }
+
+    .school-detail-sec-2 .school-stats .stats-outer-wrap {
+        width: calc(100% - 100px);
+    }
+
+    .school-details-banner.gen-banner-2 {
+        min-height: 300px;
+    }
+
+    .school-detail-sec-2 .blog-sec-2-img {
+        height: auto;
+        min-height: auto;
+        padding: 50px 20px;
+    }
+
+    .become-investor-sec-5 .gen-text-box {
+        margin-top: 30px;
+    }
+
+    .become-partner-sec-7 .gen-text-box {
+        padding-left: 0 !important;
+    }
+
+    .category-5-banner {
+        padding: 0 !important;
+    }
+
+    .event-calender-wrap .ant-spin-nested-loading .ant-spin-container {
+        height: 500px;
+    }
+
+    .school-sec-4.gurantee-sec-2 .text-box {
+        margin-top: 0px;
+    }
+
+    .faq-sec-4 {
+        padding-top: 0;
+    }
+
+    .donate-money-pg-wrap .campaign-det-sec-1 {
+        padding-top: 30px;
+    }
+    .pledge-of-the-day p{
+        line-height: 22px;
+    }
+
+    .career-pg-wrap .contact-sec-3 .img-wrap {
+        width: 100%;
+        max-width: 100%;
+    }
+
+    .career-pg-wrap .career-sec-4 {
+        padding-top: 70px;
+    }
+
+    .career-pg-wrap .career-sec-5 {
+        padding-bottom: 50px;
+    }
+
+    .career-pg-wrap .contact-sec-2 {
+        padding-bottom: 20px;
+    }
+
+    .become-investor-sec-4 .img-wrap {
+        max-width: 100%;
+    }
+
+    .become-investor-sec-4 {
+        padding-bottom: 60px;
+    }
+
+    .career-pg-wrap .contact-sec-2 h4,
+    .career-pg-wrap .contact-sec-3 h4,
+    .be-partner-wrap .become-partner-sec-7 h4 {
+        font-size: 30px;
+    }
+
+    .gen-text-box .heading,
+    .drop-line .gen-text-box .heading {
+        font-size: 26px;
+    }
+
+    .pledge-text-col {
+        padding-left: 15px;
+    }
+
+    .start-fund-other .every-year h3 {
+        font-size: 26px;
+    }
+
+    .Best-fundraising-website .main-heading {
+        font-size: 28px;
+    }
+
+    .trending-causes .card h1 {
+        line-height: 1.2;
+    }
+
+    .trending-cause-card .text-card span {
+        font-size: 12px;
+    }
+
+    .other-cat-wrap .pledge-text-col h3 {
+        font-size: 24px;
+    }
+
+    .school-list-sec-2 .gen-text-box .heading {
+        font-size: 26px;
+    }
+
+    .school-sec-7 h5 {
+        font-size: 16px;
+        font-weight: 500;
+    }
+
+    .school-sec-7 h3 {
+        font-size: 28px;
+    }
+
+    .event-manager-pg-wrap .news-banner-slider .banner-text .title {
+        font-size: 32px;
+    }
+
+    .event-manager-pg-wrap .news-banner-slider .banner-text .text {
+        font-size: 18px;
+    }
+
+    .about-sec-3 .custom-text-width h3 {
+        font-size: 26px;
+    }
+
+    .about-sec-5 .custom-text-width h3 {
+        margin-top: 20px !important;
+        font-size: 26px;
+    }
+
+    .about-sec-6 .custom-text-width h3 {
+        font-size: 32px;
+    }
+
+    .about-sec-6 .custom-text-width ul li span {
+        font-size: 18px;
+    }
+
+    .about-sec-3 .custom-text-width ul li span {
+        font-size: 24px;
+    }
+}
+
+@media (max-width: 700px) {
+    .google-btn {
+        /* padding-left: 100px !important;
+        background-position: center left 3rem; */
+    }
+}
+
+@media only screen and (max-width: 660px) {
+    .modal-video-close-btn {
+        right: 0 !important;
+        width: 28px!Important;
+        height: 28px!Important;
+    }
+    
+
+    .donate-your-bills .bills_box svg,
+    .donate-your-bills .bills_box img {
+        max-width: 50px;
+    }
+
+    .donate-your-bills .bills_box h3 {
+        margin-top: 10px;
+    }
+
+    .donate-your-bills .bills_box {
+        height: 158px !important;
+    }
+
+    .choise-banner h1 {
+        margin-bottom: 10px;
+    }
+
+    .choise-banner button {
+        margin: 8px !important;
+    }
+
+    .create-event-2-wrap .event-map-wrap {
+        flex: 0 0 100%;
+        max-width: 100%;
+        margin-bottom: 10px;
+    }
+
+    .create-event-2-wrap .event-calender-time-wrap {
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+
+    .event-detail-box .event-detail-list li {
+        padding: 0 20px;
+    }
+
+    .event-detail-box .event-detail-list li:first-of-type {
+        padding-left: 0px;
+    }
+
+    .event-detail-box .event-detail-list li {
+        line-height: 1;
+    }
+
+    .event-detail-box .event-detail-list li span {
+        margin-bottom: 5px;
+        display: block;
+    }
+
+    #jobModal .modal-dialog {
+        margin: 30px 0;
+    }
+
+    .about-pg-wrap .about-banner-slider .banner-text p {
+        font-size: 16px;
+    }
+}
+
+@media only screen and (max-width: 620px) {
+    .icause_app .form-control {
+        margin-left: 0px;
+    }
+
+    .app-btn p {
+        font-size: 9px;
+    }
+
+    .app-btn .big-txt {
+        font-size: 11px;
+    }
+
+    .gurantee-sec-2 .img-card .sm-img {
+        right: 0;
+    }
+
+    .school-listing-card .btn-wrap>div {
+        margin-top: 20px;
+        display: block;
+    }
+
+    .school-listing-card .btn-wrap a {
+        margin-left: 0px;
+        margin-right: 20px;
+    }
+
+    .gen-banner-2 {
+        min-height: 350px;
+    }
+
+    .become-partner-2-wrap ul {
+        justify-content: center;
+    }
+
+    .become-partner-2-wrap ul li {
+        width: 33.33%;
+        margin: 10px 0;
+    }
+
+    .faq-sec-2,
+    .faq-sec-3 {
+        padding-bottom: 20px !important;
+    }
+
+    .faq-sec-2 h3,
+    .faq-sec-3 h3 {
+        font-size: 30px;
+        margin-bottom: 20px !important;
+    }
+}
+
+@media only screen and (max-width: 575px) {
+    section.donate-section.iCause-Partners.custom-partner {
+        padding: 60px 0;
+    }
+
+    .footer-col-1 ul li:nth-last-child(2) h5 {
+        margin-top: 55px !important;
+    }
+
+   
+
+    .icause_app .form-control {
+        margin-left: 0px;
+    }
+
+    .banner-bg .banner-content {
+        width: 100%;
+    }
+
+    .trending-causes .trending-column {
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+
+    .footer h5 {
+        text-align: left;
+    }
+
+    .footer .footer-top ul li {
+        text-align: left;
+        padding: 5px 0;
+    }
+
+    .icause_app h2 {
+        font-size: 17px;
+    }
+
+    .organization-donate-banner,
+    .community-donation-banner,
+    .charity-donation-banner {
+        height: 240px;
+        background-position: center;
+    }
+
+    .select-price-wrap {
+        justify-content: flex-start;
+    }
+
+    .select-price-wrap .select-price {
+        width: calc(20% - 4px);
+        margin: 2px;
+    }
+
+    .school-listing-card {
+        max-width: 350px;
+        margin: 20px auto;
+    }
+
+    .school-listing-card .btn-wrap>div {
+        margin-top: 0px;
+    }
+
+    .school-listing-banner .banner-text-box p {
+        font-size: 15px;
+    }
+
+    .school-listing-banner .banner-text-box h1 {
+        line-height: 1.1;
+    }
+
+    .gen-banner .banner-text-box {
+        padding: 35px 10px;
+    }
+
+    .news-banner-slider .banner-text .title {
+        font-size: 32px;
+        line-height: 1.1;
+    }
+
+    .accordion-wrap .card-header {
+        padding: 10px 0;
+    }
+
+    .accordion-wrap .card-header .btn.btn-link {
+        font-size: 15px;
+    }
+
+    .faq-sec-2 .faq-img-card {
+        margin: 15px 0;
+        padding: 0 15px !important;
+        text-align: center !important;
+    }
+
+    .faq-sec-2 .faq-img-card img {
+        max-width: 300px;
+    }
+
+    .detail-list-donate-sec .card h3 {
+        margin-top: 0;
+    }
+
+    .detail-list-donate-sec .detail-list-bill-col {
+        flex: 0 0 50%;
+        max-width: 50%;
+    }
+
+    .create-event-4-desc .event-info {
+        width: 100%;
+        text-align: center;
+        margin-bottom: 20px;
+    }
+
+    .create-event-4-desc .event-dates {
+        width: 100%;
+        justify-content: center;
+        text-align: center;
+    }
+
+    .create-event-4-wrap .event-detail-list li {
+        padding-right: 0;
+        padding: 0 12px;
+        line-height: 1;
+    }
+
+    .create-event-4-wrap .event-detail-list li span {
+        margin-bottom: 12px;
+        display: inline-block;
+    }
+
+    .create-event-4-wrap .event-location-wrap {
+        width: 100%;
+    }
+
+    .gurantee-sec-5 .top-text h3,
+    .custom-top-text h3 {
+        font-size: 24px;
+        margin-bottom: 30px !important;
+    }
+
+    .gurantee-sec-6 h1 {
+        font-size: 20px;
+    }
+
+    .gurantee-sec-6 h1 span {
+        font-size: 24px;
+    }
+
+    .login-page .text-mob {
+        display: block;
+        top: -60px;
+    }
+
+    .gurantee-pg-wrap .gurantee-sec-4 {
+        padding-bottom: 30px;
+    }
+
+    .gurantee-pg-wrap .gurantee-sec-5 {
+        margin-top: 20px;
+    }
+
+    .be-partner-wrap .become-partner-sec-3 h4,
+    .be-partner-wrap .become-partner-sec-5 h4,
+    .be-partner-wrap .become-partner-sec-6 h4 {
+        font-size: 24px;
+    }
+
+    .school-sec-7 .card h4 {
+        font-size: 16px;
+    }
+
+    .school-sec-2 h3 {
+        font-size: 24px;
+    }
+
+    .school-sec-2 p {
+        font-size: 15px;
+    }
+
+    .campaignSec2 .sm-title {
+        font-size: 16px;
+    }
+
+    .campaignSec2 .bg-title {
+        font-size: 26px;
+    }
+
+    .how-to-donate .card h3 {
+        font-size: 16px;
+    }
+
+    .event-manager-pg-wrap .news-banner-slider .banner-text .title {
+        font-size: 28px;
+    }
+
+    .event-manager-pg-wrap .news-banner-slider .banner-text .text {
+        font-size: 16px;
+    }
+
+    .event-manager-sec-2 h3 {
+        font-size: 28px;
+    }
+
+    .event-manager-sec-4 h2 {
+        font-size: 28px;
+    }
+}
+
+@media only screen and (max-width: 525px) {
+    .gurantee-sec-2 .dual-img-card-wrap.img-card .sm-img img {
+        max-width: 220px;
+    }
+
+    .gurantee-sec-2 .dual-img-card-wrap.img-card img {
+        max-width: 350px;
+    }
+
+    .footer-top ul li button {
+        font-size: 12px;
+    }
+
+    .footer h5 {
+        font-size: 16px;
+    }
+
+    .icause_app .form-control {
+        margin-left: -9px;
+    }
+
+    .main-heading {
+        font-size: 26px;
+    }
+
+    .bannerForHomeCampaigns h1 {
+        font-size: 30px;
+        margin-bottom: 0;
+    }
+
+    .bannerForHomeCampaigns p,
+    .sub-cat-wrap .bannerForCategoryCampaigns p,
+    .other-cat-wrap .bannerForCategoryCampaigns p {
+        line-height: 1.5;
+    }
+
+    .donate-your-bills .col-lg-3.col-md-4 {
+        flex: 0 0 50%;
+        max-width: 50%;
+        padding: 3px!important;
+        min-width: 145px;
+  
+    }
+
+    .donate-your-bills .bills_box h3 {
+        margin-top: 10px;
+    }
+
+    .donate-section.home-donate-section .main-heading {
+        font-size: 26px;
+    }
+
+    .category-donate-2-text .text-box .heading {
+        font-size: 24px;
+    }
+
+    .gen-banner h1 {
+        font-size: 30px;
+    }
+    section.how-to-donate {
+        padding: 0;
+        height: 100%;
+    }
+    .become-partner-sec-5 .gen-text-box {
+        padding: 40px 30px;
+    }
+
+    .utility-bill-wrap .card .box {
+        width: 50px !important;
+        height: 50px !important;
+    }
+
+    .career-banner .banner-text .heading {
+        font-size: 30px;
+    }
+
+    .career-banner .banner-text p {
+        font-size: 15px;
+    }
+
+    .career-pg-wrap .contact-sec-2 h4,
+    .career-pg-wrap .contact-sec-3 h4 {
+        font-size: 32px;
+    }
+
+    .career-pg-wrap .contact-sec-2 .gen-text-box p,
+    .career-pg-wrap .contact-sec-3 .gen-text-box p {
+        font-size: 15px;
+    }
+}
+
+@media print {
+    /* styles here */
+    .campaignSec1-left .campaign-detail .author .socials {
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+}
+
+@media only screen and (max-width: 480px) {
+    .campaignSec1-left .campaign-detail .author .socials {
+        width: 100%;
+    }
+
+    .campaignSec1-left .campaign-detail .author .socials ul {
+        justify-content: center;
+    }
+
+    .campaignSec1-left .campaign-detail .author {
+        padding-top: 30px;
+        padding-bottom: 30px;
+        margin-bottom: 30px;
+    }
+
+    .create-event-step-1 .event-step-1-col {
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+
+    .school-detail-sec-2 .school-stats {
+        justify-content: center;
+    }
+
+    .school-detail-sec-2 .school-stats .stats-outer-wrap {
+        width: 100%;
+        margin-top: 30px;
+    }
+
+    .school-detail-sec-2 .school-stats .stat-box .number {
+        line-height: 1;
+    }
+
+    .campaignSec1-text .donation-info-box h3 {
+        font-size: 25px;
+    }
+
+    .campaignSec1-text .donation-info-box h4 {
+        font-size: 15px;
+    }
+
+    .school-detail-sec-2 .btns-wrap-2 button {
+        margin: 5px;
+    }
+
+    .category-donate-sec-2 .category-donate-2-text .reaction-counter .stat-box {
+        width: 50%;
+    }
+
+    .category-5-banner .news-banner-slider .item {
+        padding: 100px 0;
+    }
+
+    .category-5-banner .news-banner-slider .item button {
+        margin: 5px 10px 5px 0 !important;
+    }
+}
+
+@media only screen and (max-width: 470px) {
+    .category-imgs .small-image {
+        max-width: 200px;
+    }
+
+    .category-imgs>img {
+        max-width: 100%;
+    }
+
+    .inputexpended {
+        width: 80px !important;
+    }
+
+    
+
+    .footer .footer-top {
+        padding: 40px 10px 40px !important;
+    }
+
+    .header-banner {
+        margin: 0;
+    }
+
+    nav.navbar.navbar-expand-lg.navbar-light.bg-white {
+        padding: .5rem 1rem;
+    }
+
+    .icause_app .form-control {
+        margin-left: 0px;
+    }
+
+    .donate-section.iCause-Partners .text-box {
+        margin-top: 10px !important;
+    }
+
+    .homepage-banner .control-prev {
+        right: 40px !important;
+    }
+
+    .homepage-banner .control-next {
+        right: 0 !important;
+    }
+
+    .choose-method-wrap .nav-item {
+        max-width: 165px;
+        margin: 0 auto;
+    }
+
+    /* .choose-method-wrap .nav-link.active {
+        border: 1px solid #000 !important;
+    } */
+    .donate-money-method-wrap .nav-link.active {
+        background: #fafafa!important;
+        border-bottom: 2px solid #3cb64f!important;
+    }
+
+    .utility-bill-wrap .card {
+        margin-top: 35px;
+    }
+
+    .sign-up-page.login-page {
+        background: #ecf4fa;
+    }
+
+    section.icause_app {
+        padding: 30px 0;
+    }
+
+    .gurantee-sec-2 .img-card .sm-img,
+    .sm-img.small-image {
+        bottom: -25px;
+        right: -35px;
+    }
+
+    .sm-img.small-image {
+        right: -38px;
+    }
+
+    .gurantee-sec-2 .img-card,
+    .gurantee-sec-3 .img-card,
+    .donate-section .img-card {
+        max-width: 360px;
+        margin: unset;
+    }
+
+    .card.img-card.img-card-1 {
+        max-width: 100%;
+    }
+
+    button.btn.btn-outline-light,
+    button.btn.btn-succes {
+        width: 200px;
+        height: 40px;
+        margin-bottom: 10px;
+    }
+
+    .banner-bottom p {
+        display: none;
+    }
+
+    .banner-bottom {
+        text-align: left;
+        padding-left: 90px;
+    }
+
+    .footer-col-1 ul li:last-child h5 {
+        margin: 0;
+    }
+
+    .footer-col-1 ul li:nth-last-child(2) h5 {
+        margin-top: 50px !important;
+    }
+
+    .footer-top .footer-logo {
+        position: absolute;
+        top: -40px;
+        left: 70%;
+    }
+
+    .pledge-text-col::before {
+        display: none;
+    }
+
+    p.mbl-banner-pera button {
+        width: 70px !important;
+    }
+
+    
+
+    .modal-video-close-btn {
+        top: -60px !important;
+    }
+
+    .app-btn.blu p {
+        font-size: 7px;
+        line-height: 1.8;
+    }
+
+    .navbar-brand img {
+        width: 100%;
+    }
+
+    .donate-your-bills .bills_box .icon-wrap img {
+        height: 70px !important;
+    }
+}
+
+@media only screen and (max-width: 375px) {
+    .icause_app .google-btn {
+        /* padding-left: 70px !important;
+        background-position: center left 1.5rem; */
+    }
+
+    .gurantee-sec-2 .dual-img-card-wrap.img-card .sm-img img {
+        max-width: 190px;
+    }
+
+    .gurantee-sec-2 .dual-img-card-wrap.img-card img {
+        max-width: 300px;
+    }
+
+    .footer h5 {
+        font-size: 14px;
+    }
+
+    .choose-method-wrap .nav-item {
+        max-width: 155px;
+    }
+
+    .procced-form .nav-item {
+        max-width: 135px;
+    }
+
+    .choose-method-wrap .nav-link {
+        font-size: 13px;
+    }
+
+    .gurantee-sec-2 .img-card,
+    .gurantee-sec-3 .img-card,
+    .donate-section .img-card {
+        max-width: 310px;
+    }
+
+    .banner-bottom {
+        padding-left: 60px;
+    }
+
+    .google-btn {
+        /* width: 80%;
+        padding-left: 60px !important;
+        background-position: center left 1rem; */
+    }
+
+    .app-btn p {
+        font-size: 10px;
+        line-height: 16px;
+    }
+
+    .app-btn .big-txt {
+        font-size: 14px;
+    }
+
+    div#basic_phone .ant-col.ant-col-20 {
+        padding-left: 26px !important;
+    }
+
+    .btn {
+        height: 40px;
+    }
+
+    .ant-btn.ant-btn-link.navbar-brand {
+        margin-left: 24vw;
+    }
+
+    .donate-your-bills .bills_box .icon-wrap img {
+        max-width: 42px !important;
+        height: 43px !important;
+    }
+
+    .donate-your-bills .bills_box h3 {
+        font-size: 18px;
+        margin-top: 5px;
+    }
+
+    .select-price-wrap .select-price {
+        width: calc(33.33% - 4px);
+    }
+
+    .detail-list-donate-sec .detail-list-bill-col {
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+
+    .choose-method-wrap .nav-item {
+        margin-bottom: 10px;
+    }
+
+    .choose-method-wrap .nav-item .nav-link {
+        padding: 15px 0;
+    }
+
+    .why-icause-sec-2 .img-box .stats-wrap {
+        padding: 20px 0;
+    }
+
+    .why-icause-sec-2 .img-box .stats-wrap .stat-box .tag {
+        font-size: 14px;
+    }
+
+    .event-date-calender .rdrMonthAndYearWrapper {
+        padding: 0 10px;
+    }
+
+    .event-date-calender .rdrMonths .rdrMonth:nth-of-type(1) .rdrMonthName {
+        left: 15px;
+    }
+
+    .event-date-calender .rdrMonths .rdrMonth:nth-of-type(2) .rdrMonthName {
+        right: 15px;
+    }
+}
+
+@media only screen and (max-width: 355px) {
+
+    .gurantee-sec-2 .img-card .sm-img,
+    .sm-img.small-image {
+        right: -15px;
+    }
+
+    .gurantee-sec-2 .dual-img-card-wrap.img-card img {
+        max-width: 260px;
+    }
+
+    .footer h5 {
+        font-size: 12px;
+    }
+}
+
+@media only screen and (max-width: 320px) {
+    .icause_app .google-btn {
+        /* padding-left: 60px !important;
+        background-position: center left 1rem; */
+    }
+
+    .navbar-brand img {
+        width: 80%;
+    }
+
+    .gurantee-sec-2 .img-card .sm-img,
+    .sm-img.small-image {
+        right: -35px;
+    }
+
+    .donate-section.home-donate-section .ant-btn.btn {
+        padding: 5px !important;
+    }
+
+    .gurantee-sec-2 .img-card,
+    .gurantee-sec-3 .img-card,
+    .donate-section .img-card {
+        max-width: 255px;
+    }
+
+    .banner-bottom {
+        padding-left: 40px;
+    }
+
+    .check-icon i {
+        left: -80px;
+    }
+
+    /* .google-btn {
+        padding-left: 50px !important;
+        background-position: center left .7rem;
+    } */
+}
+
+@media only screen and (min-width:406px) and (max-width: 991px) {
+    #header .navbar-collapse {
+        max-width: 280px;
+    }
+}
+
+@media only screen and (max-width: 500px) {
+    #header .navbar-collapse {
+        max-width: 100%;
+    }
+
+    .navbar-nav .nav-item a:after {
+        position: absolute;
+        right: 25px;
+        font-size: 14px;
+    }
+}
+
+@media only screen and (max-width: 990px) {
+
+    .navbar-nav .nav-item a:after {
+        position: absolute;
+        right: 25px
+    }
+    .get-icous-app .app-btn{
+        border-radius: 5px;
+    }
+}
+
+@media screen and (max-width:500px) {
+    .mobile-menu .btn {
+        width: 200px;
+        height: 50px
+    }
+}
+
+@media only screen and (max-width: 500px) {
+    /* .icause_app .google-btn {
+        padding-left: 27px !important;
+        background-position: center left -7px;
+    } */
+    .get-app{
+        height: 32px!important;
+        }
+    .app-btn i {
+        width: 20%;
+        text-align: center;
+        font-size: 21px;
+        margin-right: 7px;
+
+    }
+}
+
+
+@media only screen and (max-width: 480px) {
+    .app-btn .big-txt  , .footer-get-app .big-txt{
+        font-size: 10px;
+    }
+     .footer-get-app .big-txt{
+        font-size: 12px;
+    }
+     .footer-get-app a img{
+         width: 25px;
+     }
+    .footer-get-app .app-btn.blu p  {
+        font-size: 9px;
+    }
+    .select-contry  .input-wrap ::placeholder{
+        font-size: 16px!important;
+        color: black;
+  font-weight: 500;
+      }
+      .select-contry  .input-wrap input{
+        font-size: 16px!important;
+        color: black;
+  font-weight: 500;
+  height: 26px!important;
+      }
+      .select-contry  h5.num-head{
+    
+        font-size: 16px!important;
+      }
+      .select-contry .country-code {
+        width: 36px;
+    }
+    .select-contry .country {
+        width: 36px;
+        height: 28px;
+    }
+    .select-contry .country-code {
+    
+        height: 22px;
+    }
+    .get-icous-app  .app-btn.blu{
+        padding: 4px 5px;
+    }
+}
+@media (max-width: 768px){
+    .homepage-wrap .check-icon i {
+    left: -20px;
+    top: -13px;
+}
+}
+
+.trending-cause-card p:hover {
+    text-decoration: underline;
+  }
+  
+  .trending-cause-card  p:active {
+    text-decoration: underline;
+  }
+  .trending-cause-card h1:hover {
+    text-decoration: underline;
+  }
+  
+  .trending-cause-card  h1:active {
+    text-decoration: underline;
+  }
+
+  .Capital {
+      text-transform: uppercase;
+      font-size: 11px !important;
+  }
